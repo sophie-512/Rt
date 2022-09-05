@@ -4,5 +4,5 @@
  - 완벽하지 않지만 실제 감염재생산지수와 거의 비슷한 결과를 가져온다
 2. 와이링가 : 파이썬으로 된 wallinga 방법
  - 모양이 달라서 보완이 필요한 부분이다.
-3. Rt_calculation : R로된 cori와 bettencourt 방법
+3. Rt계산_local : R로된 cori와 bettencourt 방법
  - 모양이 거의 비슷한 부분이다.
